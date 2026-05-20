@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/back-to-roots/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Back To Roots](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/back-to-roots/) |
+| **Get License** | [Official Music Licensing for Back To Roots](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/back-to-roots/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan 'ch bolda ae nasha tera deep
+> Main jagda haan raatan nu losing my sleep
+> Bullan 'ch lakkheya ae raaz too dark
+> Dil utte chhad gayi ae apna tu mark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
