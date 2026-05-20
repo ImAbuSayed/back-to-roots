@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Back To Roots
+
+This log tracks the cryptographic history and versioning for the song **Back To Roots** (back-to-roots).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T23:28:34.836099 | `v1` | `39b9074730123a52b879c378640a6101fd7f02c9c6c6d6019f1c71d83586f8d1` | `b8d16fecbba6455784f17b9c6dc539cb786e46c8c0a35480e627802b2ff05720` | `2026-05-20_back-to-roots-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/back-to-roots/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Back To Roots](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/back-to-roots/) |
+| **Get License** | [License this song: Back To Roots](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/back-to-roots/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `39b9074730123a52b879c378640a6101fd7f02c9c6c6d6019f1c71d83586f8d1` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
